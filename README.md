@@ -2,9 +2,9 @@
 <h3 align="center">A developer since 2024!</h3>
 
 ## 📌 About Me
-- 🔭 I’m currently working on custom orders for customers.
-- 👉 If you need a custom Discord bot or a custom website, contact me.
-- 🏮Discord Username: creez.qz
+- I’m currently working on custom orders for customers.
+- If you need a custom Discord bot or a custom website, contact me.
+- Discord Username: creez.qz
 
 
 ## 🧠 My Focus Areas
