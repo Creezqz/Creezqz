@@ -8,7 +8,7 @@
 
 
 ## 🧠 My Focus Areas
-- 💎 I want to offer people the best development at affordable prices and design everything in such a way that customers are 100% satisfied.
+- I want to offer people the best development at affordable prices and design everything in such a way that customers are 100% satisfied.
 
 
 ## 🛠️ Languages & Tools
